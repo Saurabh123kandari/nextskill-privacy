@@ -1,4 +1,4 @@
-Privacy Policy for NextSkill
+## Privacy Policy for NextSkill
 
 NextSkill respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.
 
@@ -23,3 +23,17 @@ We use industry-standard security measures to protect your data.
 Contact:
 If you have questions, contact us at:
 support@nextskill.app
+
+## Account Deletion for NextSkill
+
+Users can request deletion of their NextSkill account and associated data
+by contacting us at:
+
+Email: saurabh.kandari@gmail.com  
+Subject: Account Deletion Request – NextSkill
+
+Upon verification, we will permanently delete the user's account and
+associated personal data within 30 days.
+
+
+Last updated: January 2026
